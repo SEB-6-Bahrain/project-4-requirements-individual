@@ -15,7 +15,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
 
-- The app utilizes a front-end framework (e.g., React) to render views for users.
+- The app utilizes a front-end framework (e.g., React) or templating (e.g., EJS or Django Templating Language) to render views for users.
 - The app uses a database management system (e.g., MongoDB, PostgreSQL, etc.) to store and manage data.
 - The app implements user authentication (e.g., session-based authentication, JWT, OAuth, etc.) to allow users to sign up, log in, and log out securely.
 - Authorization is implemented in the app. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
