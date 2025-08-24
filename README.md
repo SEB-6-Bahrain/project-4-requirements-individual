@@ -7,7 +7,7 @@ For this project, you'll build a full-stack application with full CRUD functiona
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
-A printable version of the project requirements can be found [here](./assets/project-requirements.pdf).
+A printable version of the project requirements can be found [here](./Project%204%20-%20Capstone%20CRUD%20App%20Individual%20Project%20Requirements.pdf).
 
 ## Technical requirements
 
