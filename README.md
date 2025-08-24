@@ -15,11 +15,11 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
 
-- The app utilizes a front-end framework (e.g., React) or a server-side templating engine (e.g., EJS, Django Template Language) to render views for users.
-- The app uses a database management system (e.g., MongoDB, PostgreSQL, etc.) to store and manage data.
-- The app implements user authentication (e.g., session-based authentication, JWT, OAuth, etc.) to allow users to sign up, log in, and log out securely.
+- The app renders content to users using either React or server-side templates (Django templates or Express-based views).
+- The app uses either PostgreSQL (Django) or MongoDB (MERN) as its database management system.
+- Authentication is handled using either session-based (Django) or token-based methods (Express), depending on the backend framework.
 - Authorization is implemented in the app. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
-- The app has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
+- The app has at least **one** data entity *in addition* to the User model. At least one entity must have a relationship with the User model.
 - The app has full CRUD functionality (Create, Read, Update, Delete) for at least one data entity.
 - The app is deployed online so that the rest of the world can use it (e.g., Heroku, Vercel, Netlify, etc.).
 
